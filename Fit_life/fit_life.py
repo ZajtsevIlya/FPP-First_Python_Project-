@@ -22,4 +22,4 @@ def base_parametrs():
 
 
 base_parametrs()
-
+print()
